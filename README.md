@@ -1,12 +1,10 @@
 # Predicting Titanic Survival Chance with MLP
 
+**Authors:** Michal Lüley, Peter Mervart
+
 This project aims to predict the survival chances of passengers on the Titanic using a Multilayer Perceptron (MLP) model implemented in TensorFlow. The dataset used for this project is the Titanic dataset, which contains information about the passengers and whether they survived.
 
 Detailed explanation with visualizations in jupyter notebook: [Notebook](TitanicSurvivalRate.ipynb)
-
-## Authors
-- Peter Mervart
-- Michal Lüley
 
 ## Libraries Used
 - `pandas`
